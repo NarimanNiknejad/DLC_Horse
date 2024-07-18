@@ -6,7 +6,7 @@ This dataset contains annotated keypoints for equine kinematic gait analysis usi
 ## Video Demonstration
 
 <video width="320" height="240" controls>
-  <source src="dataset/20210201 cento walk_72_1612209370182DLC_resnet101_Main_Model_FullResNov1shuffle1_1030000_labeled.mp4" type="video/mp4">
+  <source src="/dataset/20210201 cento walk_72_1612209370182DLC_resnet101_Main_Model_FullResNov1shuffle1_1030000_labeled.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
