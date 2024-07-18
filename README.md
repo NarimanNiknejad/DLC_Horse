@@ -5,8 +5,10 @@ This dataset contains annotated keypoints for equine kinematic gait analysis usi
 
 ## Video Demonstration
 
-![Annotation Result](dataset/20210201 cento walk_72_1612209370182DLC_resnet101_Main_Model_FullResNov1shuffle1_1030000_labeled.mp4)
-
+<video width="320" height="240" controls>
+  <source src="dataset/20210201%20cento%20walk_72_1612209370182DLC_resnet101_Main_Model_FullResNov1shuffle1_1030000_labeled.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## Highlights
 - Stereo machine vision and deep learning techniques were investigated for infield equine kinematic gait analysis.
