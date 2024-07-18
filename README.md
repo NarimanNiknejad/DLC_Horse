@@ -61,8 +61,6 @@ DeepLabCut is an open-source toolbox that utilizes deep learning to enable marke
 
 ## Getting Started with DeepLabCut
 
-To get started with DeepLabCut and use it with the provided custom dataset, follow the steps below:
-
 ### Prerequisites
 
 Ensure you have the following software installed:
