@@ -3,6 +3,10 @@
 ## Overview
 This dataset contains annotated keypoints for equine kinematic gait analysis using stereo videography and deep learning techniques. It was developed as part of the research paper titled "Equine Kinematic Gait Analysis Using Stereo Videography and Deep Learning: Stride Length and Stance Duration Estimation," published in the Journal of the ASABE.
 
+## Video Demonstration
+
+![Annotation Result](dataset/20210201 cento walk_72_1612209370182DLC_resnet101_Main_Model_FullResNov1shuffle1_1030000_labeled.mp4)
+
 
 ## Highlights
 - Stereo machine vision and deep learning techniques were investigated for infield equine kinematic gait analysis.
